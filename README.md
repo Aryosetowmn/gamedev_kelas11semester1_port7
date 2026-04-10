@@ -1,4 +1,4 @@
-# Flappy Bird Game (Unity / C#) - Game Development Educational Project
+# Flappy Bird Game (Unity / C#)
 
 Dec 4, 2021 | Created when I was in 11th grade, this is a simple (my first) Flappy Bird style game made in Unity to practice basic game looping logic, collision handling, scoring systems, and a simple UI.
 
